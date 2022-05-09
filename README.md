@@ -27,4 +27,4 @@ python -m ipykernel install --user --name=tfodj
 <b>Step 5.</b> Detect gesture in real time using a webcam or using Images using the notebook <a href="https://github.com/LamaTarek/Hand_Gesture_Detection_App/blob/main/2.%20Training%20and%20Detection.ipynb">2.  Training and Detection.ipynb</a> - ensure you change the kernel to the virtual environment
 <br/>
 
-<img src="https://imgur.com/a/svG9EIp">
+<img src="https://imgur.com/a/svG9EIp.png">
