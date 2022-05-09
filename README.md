@@ -1,5 +1,5 @@
  # Hand Gesture Detection Walkthrough
-<p>A flutter application dependes on tenserflow lite module.It detects hand gesture then translate theses signs into descrptive text.</p> 
+<p>A flutter application dependes on tenserflow lite module.It detects hand gesture then translate these signs into descrptive text.</p> 
 
 ## Setup 
 <br />
