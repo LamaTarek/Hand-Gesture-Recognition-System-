@@ -1,8 +1,7 @@
  # Hand Gesture Detection Walkthrough
 <p>A flutter application dependes on tenserflow lite module.It detects hand gesture then translate theses signs into descrptive text.</p> 
-### Getting Started
 
-### Setup 
+## Setup 
 <br />
 <b>Step 1.</b> Clone this repository
 <br/><br/>
@@ -25,14 +24,18 @@ python -m ipykernel install --user --name=tfodj
 </pre>
 <br/>
 <b>Step 5.</b> Detect gesture in real time using a webcam or using Images using the notebook <a href="https://github.com/LamaTarek/Hand_Gesture_Detection_App/blob/main/2.%20Training%20and%20Detection.ipynb">2.  Training and Detection.ipynb</a> - ensure you change the kernel to the virtual environment
-<br/>
-### Screenshots from the web cam
+<br/> 
+
+## Screenshots from the web cam 
+<br />
+
+![Four](https://user-images.githubusercontent.com/88500194/167510352-5250e519-8ca7-41ab-9f7c-fcdd2d3261d1.jpg)
+![luck](https://user-images.githubusercontent.com/88500194/167510355-18b5831e-dfcc-467b-aebc-20922763a8ed.jpg)
+![No](https://user-images.githubusercontent.com/88500194/167510365-1330a160-a72d-4b70-ac07-a1a6f71a4c3a.jpg)
+![love](https://user-images.githubusercontent.com/88500194/167510358-b00b27d1-841b-4cbb-bb69-f94c72b87436.jpg)
+![ten](https://user-images.githubusercontent.com/88500194/167510354-2bb48336-f250-4178-86d4-01b28b954320.jpg)
+![Hello](https://user-images.githubusercontent.com/88500194/167510361-aacbb6ca-6368-469f-b871-abc096f033ac.jpg)
+![Yes](https://user-images.githubusercontent.com/88500194/167510363-34e6985c-9aa1-4af3-9485-68b0c577db33.jpg)
 
 
-![Screenshot 2022-05-09 234118](https://user-images.githubusercontent.com/88500194/167508315-24012ee9-24a9-4fee-99fb-9fc467815ac2.jpg)
-![Screenshot 2022-05-09 234541](https://user-images.githubusercontent.com/88500194/167508320-2b26927f-d590-4538-97f7-bec8bddbd948.jpg)
-![Screenshot 2022-05-09 234717](https://user-images.githubusercontent.com/88500194/167508322-c473cfa3-f4f1-42f5-8bed-a399f8c3debd.jpg)
-![Screenshot 2022-05-09 235454](https://user-images.githubusercontent.com/88500194/167508324-022d798a-97f2-4126-91a1-f27c3d74272c.jpg)
-![Screenshot 2022-05-10 000213](https://user-images.githubusercontent.com/88500194/167508325-8f52d73b-78ac-4d0e-be7c-90be138820b5.jpg)
-![Screenshot 2022-05-09 233448](https://user-images.githubusercontent.com/88500194/167508327-0ee5e651-7566-4c3f-bc6f-8548619e4d51.jpg)
-![Screenshot 2022-05-09 234050](https://user-images.githubusercontent.com/88500194/167508329-2df9f8d9-60b6-42fe-8cfa-a5dfadbe6ae4.jpg)
+
