@@ -1,7 +1,7 @@
  # Hand Gesture Detection Walkthrough
-<p>A flutter application dependes on tenserflow lite module.It detects hand gesture then translate these signs into descrptive text.</p> 
-
-## Setup 
+## 🧐 About <a name = "about"></a>
+A flutter application dependes on tenserflow lite module.It detects hand gesture then translate these signs into descrptive text.
+## ⛏️ Setup 
 <br />
 <b>Step 1.</b> Clone this repository
 <br/><br/>
@@ -26,20 +26,15 @@ python -m ipykernel install --user --name=tfodj
 <b>Step 5.</b> Detect gesture in real time using a webcam or using Images using the notebook <a href="https://github.com/LamaTarek/Hand_Gesture_Detection_App/blob/main/2.%20Training%20and%20Detection.ipynb">2.  Training and Detection.ipynb</a> - ensure you change the kernel to the virtual environment
 <br/> 
 
-## Screenshots from the web cam 
-<br />
+## 📷 Screenshots from the web cam 
 
-![Four](https://user-images.githubusercontent.com/88500194/167510352-5250e519-8ca7-41ab-9f7c-fcdd2d3261d1.jpg)
-![luck](https://user-images.githubusercontent.com/88500194/167510355-18b5831e-dfcc-467b-aebc-20922763a8ed.jpg)
+| ![Four](https://user-images.githubusercontent.com/88500194/167510352-5250e519-8ca7-41ab-9f7c-fcdd2d3261d1.jpg) | ![luck](https://user-images.githubusercontent.com/88500194/167510355-18b5831e-dfcc-467b-aebc-20922763a8ed.jpg) | ![love](https://user-images.githubusercontent.com/88500194/167510358-b00b27d1-841b-4cbb-bb69-f94c72b87436.jpg) |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+| ![Hello](https://user-images.githubusercontent.com/88500194/167510361-aacbb6ca-6368-469f-b871-abc096f033ac.jpg) | ![ten](https://user-images.githubusercontent.com/88500194/167510354-2bb48336-f250-4178-86d4-01b28b954320.jpg) | ![Yes](https://user-images.githubusercontent.com/88500194/167510363-34e6985c-9aa1-4af3-9485-68b0c577db33.jpg) 
+
 ![No](https://user-images.githubusercontent.com/88500194/167510365-1330a160-a72d-4b70-ac07-a1a6f71a4c3a.jpg)
-![love](https://user-images.githubusercontent.com/88500194/167510358-b00b27d1-841b-4cbb-bb69-f94c72b87436.jpg)
-![ten](https://user-images.githubusercontent.com/88500194/167510354-2bb48336-f250-4178-86d4-01b28b954320.jpg)
-![Hello](https://user-images.githubusercontent.com/88500194/167510361-aacbb6ca-6368-469f-b871-abc096f033ac.jpg)
-![Yes](https://user-images.githubusercontent.com/88500194/167510363-34e6985c-9aa1-4af3-9485-68b0c577db33.jpg)
-<br/> 
 
-## Demo
-<br />
+## 📽 Demo
 
 https://user-images.githubusercontent.com/88500194/167700586-f3da36e6-49d8-40c8-8f18-07dbb2757028.mp4
 
